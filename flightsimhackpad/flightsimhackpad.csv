@@ -1,5 +1,0 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"SW7,SW3,SW6,SW4,SW5,SW8";"SW_Cherry_MX_1.00u_Plate";6;"SW_Push";;;
-2;"D4,D3,D6,D1,D2,D8,D7,D5";"LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm";8;"SK6812MINI";;;
-3;"U1";"XIAO-RP2040-DIP";1;"XIAO-RP2040-DIP";;;
-4;"SW2,SW1";"SW_Cherry_MX_1.00u_PCB";2;"SW_Push";;;
