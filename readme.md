@@ -3,3 +3,4 @@ I was inspired to mkae this project so that when you are playing a flight simula
 
 <img width="1067" height="851" alt="image" src="https://github.com/user-attachments/assets/f5f24041-fc0d-482c-b63e-c12c226dbc86" />
 <img width="802" height="476" alt="image" src="https://github.com/user-attachments/assets/ecfa2363-bd6a-4a35-8c97-564e4cec2173" />
+So that the leds can be seen i am making the case above it very thin this is to help difuse the lights and the make it more strong comapred to holes being cut out.
